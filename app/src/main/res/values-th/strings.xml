@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Compare Things</string>
+    <string name="pleaseInsert">[กรอก ราคา และ น้ำหนักสุทธิ]</string>
+    <string name="item1">A</string>
+    <string name="item2">B</string>
+    <string name="item1Recommended">A ถูกกว่า</string>
+    <string name="item2Recommended">B ถูกกว่า</string>
+    <string name="bothRecommended">เท่ากัน</string>
+    <string name="incorrectValue">กรอกข้อมูลไม่ถูกต้อง</string>
+
+    <string name="ACost1for">A จ่าย 1 หน่วยต่อ</string>
+    <string name="BCost1for">B จ่าย 1 หน่วยต่อ</string>
+    <string name="gram">กรัม</string>
+</resources>

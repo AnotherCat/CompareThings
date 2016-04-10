@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Compare Things</string>
+    <string name="pleaseInsert">[Insert price and weight]</string>
+    <string name="item1">A</string>
+    <string name="item2">B</string>
+    <string name="item1Recommended">Just pick A</string>
+    <string name="item2Recommended">Just pick B</string>
+    <string name="bothRecommended">Just pick A or B</string>
+    <string name="incorrectValue">Incorrect Value</string>
+
+    <string name="ACost1for">A cost 1 for</string>
+    <string name="BCost1for">B Cost 1 for</string>
+    <string name="gram">g</string>
+</resources>
